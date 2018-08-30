@@ -45,7 +45,7 @@ conda install lxml
 
 # Get an API key
 
-Sign up for an account on the [MBTA realtime Developer Portal](http://realtime.mbta.com/portal) and create a new application. It may take a day or two to get approval. Once you get it, create a file called `ignore/mbta_api_key.txt` and paste your API key there.
+Sign up for an account on the [MBTA realtime Developer Portal](https://api-v3.mbta.com/) and create a new application. It may take a day or two to get approval. Once you get it, create a file called `ignore/mbta_api_key.txt` and paste your API key there.
 
 # Run the App
  
